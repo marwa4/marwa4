@@ -5,7 +5,7 @@
 
 
  <h2 align="center">Hi there,  👋 I'm Marwa </h2>
- <h3 align="center">Ph. D. student 👨‍🎓 | Electronic and Telecommunication Engineering</h3>
+ <h3 align="center">Doctor 👨‍🎓 | Signal, Telecommunications, Image and Radar</h3>
  <h3 align="center">
  <a href="https://www.univ-rennes1.fr/">Univ. Rennes 1</a>
  |
@@ -21,7 +21,7 @@ France
 </p>
 </p>
 
-- 🔭 I’m currently working on Digital signal processing for optical communications, FPGA design for embedded systems and software-hardware integration 😎.
+- 🔭 I love working on Digital signal processing, FPGA design for embedded systems and software-hardware integration 😎.
 - 🌱 I’m currently learning everything possible 😂.
 - 💬 Ask me about anything [mailto](laghamarwa01@gmail.com)
 
